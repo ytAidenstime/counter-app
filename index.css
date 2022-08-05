@@ -1,0 +1,159 @@
+body {
+    background-color: darkorchid;
+}
+
+.squre-first {
+    position: absolute;
+    left: 20%;
+    height: 200px;
+    width: 250px;
+    top: 10%;
+    background-color: #1B244A;
+}
+
+.squre-second {
+    position: absolute;
+    left: 60%;
+    height: 200px;
+    width: 250px;
+    top: 10%;
+    background-color: #1B244A;
+}
+
+.home-text {
+    position: absolute;
+    left: 27%;
+}
+
+.guest-texts {
+    position: absolute;
+    left: 67%;
+}
+
+.number-first {
+    position: absolute;
+    top: 48%;
+    left: 15%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-first:hover {
+    border-color: red;
+}
+
+.number-first:active {
+    border-color: blue;
+}
+
+.count {
+    position: absolute;
+    left: 27%;
+    top: 2%;
+    font-size: 100px;
+}
+
+.number-second {
+    position: absolute;
+    top: 48%;
+    left: 25%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-second:hover {
+    border-color: red;
+}
+
+.number-second:active {
+    border-color: blue;
+}
+
+.number-forth {
+    position: absolute;
+    top: 48%;
+    left: 35%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-forth:hover {
+    border-color: red;
+}
+
+.number-forth:active {
+    border-color: blue;
+}
+
+.number-firstonsec {
+    position: absolute;
+    top: 48%;
+    left: 56%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-firstonsec:hover {
+    border-color: red;
+}
+
+.number-firstonsec:active {
+    border-color: blue;
+}
+
+.counts {
+    position: absolute;
+    left: 67.70%;
+    top: 2%;
+    font-size: 100px;
+}
+
+.number-secondss {
+    position: absolute;
+    top: 48%;
+    left: 66%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-secondss:hover {
+    border-color: red;
+}
+
+.number-secondss:active {
+    border-color: blue;
+}
+
+.number-forths {
+    position: absolute;
+    top: 48%;
+    left: 76%;
+    height: 50px;
+    width: 100px;
+    background-color: rgba(255, 140, 0, 0);
+    border-color: black;
+    font-size: 30px;
+}
+
+.number-forths:hover {
+    border-color: red;
+}
+
+.number-forths:active {
+    border-color: blue;
+}
